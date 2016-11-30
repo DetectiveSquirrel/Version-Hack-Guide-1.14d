@@ -1,5 +1,4 @@
 #Diablo II 1.14d Version Hack Guide
-##
 
 Before we start:
  - You cannot have Diablo II that was an installed from a Battle.net installer it needs to be installed from .ISO or physical disc.
