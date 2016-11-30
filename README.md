@@ -1,4 +1,4 @@
-#1.14d Version Hack Guide
+#Diablo II 1.14d Version Hack Guide
 ##
 
 Before we start:
