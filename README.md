@@ -1,7 +1,8 @@
 #Diablo II 1.14d Version Hack Guide
 
 ###Before we start
- - You **cannot** have Diablo II that was installed from a Battle.net installer it needs to be installed from **.ISO** or **physical disc**     if you have neither you can download it from [D2Mule.com](http://www.d2mule.com/product_info.php?products_id=11506&osCsid=o8ek9p1nujfaat1m3mt2q3v8o5 "D2Mule.com's Diablo II Torrent Guide") 
+ - You **cannot** have Diablo II that was installed from a Battle.net installer it needs to be installed from **.ISO** or **physical disc**
+ - If you have neither you can download it from [D2Mule.com](http://www.d2mule.com/product_info.php?products_id=11506&osCsid=o8ek9p1nujfaat1m3mt2q3v8o5 "D2Mule.com's Diablo II Torrent Guide") 
  - Download the Version Hack: [114d.rar](http://puu.sh/szost/8c27dcd72e.rar "Diablo II 1.14d Version Hack Files") 
  - Make sure your Diablo II is running on patch 1.13d as seen below, if you are running a different verison place `114d\109Game\game.exe` into your Diablo II folder
  	and run `114d\109Game\LODPatch_113d.exe`
