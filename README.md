@@ -15,6 +15,5 @@
 ![alt text](https://github.com/DetectiveSquirrel/Version-Hack-Guide-1.14d/blob/master/diablo2-replace.gif "Logo Title Text 1")
 
 
-###Success!
- - Your diablo 2 should now run with D2BS and should look like this
+###Success! Your diablo 2 should now run with D2BS and should look like this
 ![alt text](https://github.com/DetectiveSquirrel/Version-Hack-Guide-1.14d/blob/master/versionhack-done.gif "Logo Title Text 1")
