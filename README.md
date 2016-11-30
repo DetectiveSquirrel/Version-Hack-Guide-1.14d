@@ -1,7 +1,7 @@
 #Diablo II 1.14d Version Hack Guide
 
 ###Before we start
- - You **cannot** have Diablo II that was installed from a Battle.net installer it needs to be installed from **.ISO** or **physical disc**
+ - You **cannot** have Diablo II that was installed from a Battle.net installer it needs to be installed from **.ISO** or **physical disc** if you have neither you can download it from **http://d2mule.com/Diablo.II.Lord.of.Destruction%20-%20RELOADED.torrent**
  - Download the Version Hack: http://puu.sh/szost/8c27dcd72e.rar
  - Make sure your Diablo II is running on patch 1.13d as seen below, if you are running a different verison place `114d\109Game\game.exe` into your Diablo II folder
  	and run `114d\109Game\LODPatch_113d.exe`
